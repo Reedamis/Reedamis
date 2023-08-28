@@ -20,3 +20,6 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
 - SQL
 - Pyton
 - VBA
+
+## Email
+Reed.Clement.Hofer@gmail.com
