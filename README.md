@@ -17,21 +17,12 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
     - 📚 Dedicated to continuous learning and growth in data-related fields
 
 ### Tools
-- ![Tableau](https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI)
-- Looker
-- Microsoft SQL Server
-- DBeaver
-- Excel
+<img src="https://dasil.sites.grinnell.edu/wp-content/uploads/2017/01/Tableau-Logo.png" alt="tableau" height="60"/> <img src="https://media.licdn.com/dms/image/D5612AQG_qZMMQLO7-Q/article-cover_image-shrink_600_2000/0/1676926985196?e=2147483647&v=beta&t=5ZFbE26yiX5gJK9fQ6YvvoiNDjBjTei5MLNXtC0A6VE" alt="Looker" height="60"/> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" alt="Excel" height="60"/> <img src="https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/featurecontent-3-column-_500x280_windows_server.ashx?h=280&iar=0&w=500&la=en&hash=8DD80B877119E40C52E4659686958A37" alt="MSWS" height = "60"> <img src="https://usercentrics.com/wp-content/uploads/2021/03/Google-BigQuery.png" alt="DBeaver" height="60"> <img src="https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/blog/AmazonAdvertising.jpg" alt="DBeaver" height="60"> <img src="https://1000logos.net/wp-content/uploads/2017/08/Salesforce-emblem.jpg" alt="DBeaver" height="60">
 
-    - Looker
-    - Microsoft SQL Server
-    - DBeaver
-    - Excel
 
 ### Languages
-    - SQL
-    - Python
-    - VBA
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*RK50G3R8xeRtANWAkJE6Mw.png" alt="DBeaver" height="60"> <img src="https://svn.python.org/www/trunk/beta.python.org/resources/docs/slideshow/images/newpythonlogo.png" alt="DBeaver" height="60"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.png" alt="DBeaver" height="60">
+
 
 ### Email
 Reed.Clement.Hofer@gmail.com
