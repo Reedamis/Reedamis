@@ -17,7 +17,11 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
     - 📚 Dedicated to continuous learning and growth in data-related fields
 
 ### Tools
-    - Hello
+    - Tableau
+    - Looker
+    - Microsoft SQL Server
+    - DBeaver
+    - Excel
 
 ### Languages
     - SQL
