@@ -21,7 +21,7 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
 
 
 ### Languages
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*RK50G3R8xeRtANWAkJE6Mw.png" alt="DBeaver" height="60"> <img src="https://svn.python.org/www/trunk/beta.python.org/resources/docs/slideshow/images/newpythonlogo.png" alt="DBeaver" height="60"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.png" alt="DBeaver" height="60">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*RK50G3R8xeRtANWAkJE6Mw.png" alt="DBeaver" height="60"> <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="DBeaver" height="60"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.png" alt="DBeaver" height="60">
 
 
 ### Email
