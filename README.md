@@ -17,8 +17,12 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
     - 📚 Dedicated to continuous learning and growth in data-related fields
 
 ### Tools
-    - ![image](https://github.com/Reedamis/Reedamis/assets/114689977/c8245536-1436-4db8-ab76-04506a3ca52f)
-Tableau
+- ![Tableau]([https://github.com/Reedamis/Reedamis/blob/main/assets/114689977/c8245536-1436-4db8-ab76-04506a3ca52f.png](https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI))
+- Looker
+- Microsoft SQL Server
+- DBeaver
+- Excel
+
     - Looker
     - Microsoft SQL Server
     - DBeaver
