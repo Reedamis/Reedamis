@@ -16,10 +16,13 @@ I'm Reed, a skilled data professional with a background in chemistry. I have a g
     - 👟 Proven track record of collaborating across teams and industries
     - 📚 Dedicated to continuous learning and growth in data-related fields
 
-## Language
+### Tools
+    - 
+
+### Languages
 - SQL
 - Pyton
 - VBA
 
-## Email
+### Email
 Reed.Clement.Hofer@gmail.com
